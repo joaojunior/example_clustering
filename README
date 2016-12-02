@@ -1,8 +1,11 @@
-Example of use the algorithm KMeans to clustering a dataset.
-The dataset are in the files autos.csv and ign.csv. This datasets are get from https://www.kaggle.com/datasets.
-The dataset autos.csv is about the sells cars in Germany and the dataset ign.csv is about the scores in games.
+We will use the Python 3.4, I suggest you to download and install the Python Anaconda here: [https://www.continuum.io/downloads#windows], since all required libraries will be already included. 
 
-To show the KMeans, here we use the Jupyter Notebooks[http://jupyter.org/].
+Now, please install the dependencies with the command <pip install -r requirements>. You need to be in the right folder containing the downloaded files from the Github. 
 
-To run, is necessary you get this repository and install the dependencies with pip install -r requirements and then
-run the jupyter notebook.
+Then run the Jupyter with the command <jupyter notebook –-port=8889>.
+
+We can use the following Datasets:
+web-google.txt
+iris
+
+Other datasets are found here: https://www.kaggle.com/datasets 
